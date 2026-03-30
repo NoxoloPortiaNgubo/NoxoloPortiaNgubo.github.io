@@ -1,4 +1,3 @@
-# NoxoloPortiaNgubo.github.io
 # Noxolo Portia Ngubo
 **Applications Development Student** | [cite_start]Cape Town, South Africa [cite: 1, 6]
 [cite_start]📞 076 674 1004 [cite: 4] | [cite_start]📧 2221066748@mycput.ac.za [cite: 5]
