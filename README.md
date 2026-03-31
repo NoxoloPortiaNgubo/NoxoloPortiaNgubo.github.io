@@ -46,4 +46,5 @@ As an Information and Communications Technology student majoring in Applications
 ---
 
 ## Mock Interview
-* <video src="./Video.mov"controls width="600"></video>
+* <video src="https://github.com/NoxoloPortiaNgubo/NoxoloPortiaNgubo/raw/main/Video.mp4" controls="controls" style="max-width: 100%;">
+</video>
