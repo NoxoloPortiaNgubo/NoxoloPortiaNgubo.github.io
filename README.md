@@ -34,7 +34,7 @@ As an Information and Communications Technology student majoring in Applications
 ### **Diploma in ICT: Applications Development**
 * *Cape Peninsula University of Technology* | 2024 – Current 
 
-### **Senior Certificate**
+### **National Senior Certificate**
 * *Ganges Secondary School* | 2018 – 2019 
 
 ---
