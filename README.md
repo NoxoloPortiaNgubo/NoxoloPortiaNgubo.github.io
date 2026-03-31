@@ -43,5 +43,7 @@ As an Information and Communications Technology student majoring in Applications
 * **Cape Peninsula University of Technology** 
 * **Contacts:** Zietsmane@cput.ac.za | Cicerot@cput.ac.za
 
-* <video src="https://github.com/NoxoloPortiaNgubo/NoxoloPortiaNgubo/blob/main/Video.mov?raw=true" controls="controls" style="max-width: 100%;">
-</video>
+---
+
+## Mock Interview
+* <video src="./Video.mov"controls width="600"></video>
