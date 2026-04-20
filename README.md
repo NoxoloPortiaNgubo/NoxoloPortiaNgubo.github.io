@@ -48,13 +48,14 @@ As an Information and Communications Technology student majoring in Applications
 ## Mock Interview
 
 <div align="center">
-  <h3>🎥 Mock Interview Video</h3>
-  <p>Click the button below to watch the video evidence for this assessment.</p>
+  <h2>🎥 Mock Interview Video</h2>
   
-  <a href="https://github.com/NoxoloPortiaNgubo/NoxoloPortiaNgubo.github.io/blob/main/Video_Portfolio.mp4" target="_blank" style="padding: 10px 20px; background-color: #238636; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
-    ▶️ Watch Interview Video
-  </a>
+  <video width="80%" height="auto" controls preload="metadata" poster="https://via.placeholder.com/800x450.png?text=Loading+Interview+Video...">
+    <source src="./Video_Portfolio.mp4" type="video/mp4">
+    <source src="Video_Portfolio.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+  <p><i>Note: If the video takes a moment to load, please ensure you are on a stable connection.</i></p>
 </div>
-
-<br>
 
