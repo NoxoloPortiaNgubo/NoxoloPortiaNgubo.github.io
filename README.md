@@ -49,7 +49,7 @@ As an Information and Communications Technology student majoring in Applications
 
 <div align="center">
   <h3>Mock Interview Video</h3>
-  <video src="" width="600" controls>
+  <video src="https://github.com/NoxoloPortiaNgubo/NoxoloPortiaNgubo.github.io/blob/main/Video_Portfolio.mp4" width="600" controls>
     Your browser does not support the video tag.
   </video>
 </div>
