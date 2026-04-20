@@ -48,15 +48,10 @@ As an Information and Communications Technology student majoring in Applications
 
 
 <div align="center">
-  <h2>🎥 Mock Interview Video</h2>
-  
-  <video width="80%" height="auto" controls preload="metadata" poster="https://via.placeholder.com/800x450.png?text=Loading+Interview+Video...">
-    <source src="./Video_Portfolio.mp4" type="video/mp4">
-    <source src="Video_Portfolio.mp4" type="video/mp4">
+  <h3>Mock Interview Video</h3>
+  <video src="" width="600" controls>
     Your browser does not support the video tag.
   </video>
-  
-  <p><i>Note: If the video takes a moment to load, please ensure you are on a stable connection.</i></p>
 </div>
 
 ---
