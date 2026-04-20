@@ -45,7 +45,7 @@ As an Information and Communications Technology student majoring in Applications
 
 ---
 
-## Mock Interview
+
 
 <div align="center">
   <h2>🎥 Mock Interview Video</h2>
@@ -59,3 +59,17 @@ As an Information and Communications Technology student majoring in Applications
   <p><i>Note: If the video takes a moment to load, please ensure you are on a stable connection.</i></p>
 </div>
 
+---
+
+### Reflection: Mock Interview Experience
+**Situation**
+As part of module 2, I participated in a mock interview to test my readiness for the professional ICT industry.
+
+**Task**
+My goal was to demonstrate my communication skills and ability to answer challenging questions.
+
+**Action**
+I used the star method to answer the questions. I addressed the technical questions by discussing current industry issues.
+
+**Result**
+The mock interview successfully eased my nerves and helped me redefine my interview skills. I now feel more confident for my upcoming Work Intergrated learning interviews.
