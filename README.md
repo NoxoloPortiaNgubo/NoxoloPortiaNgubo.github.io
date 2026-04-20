@@ -46,7 +46,10 @@ As an Information and Communications Technology student majoring in Applications
 ---
 
 ## Mock Interview
-* <video width="100%" controls>
-  <source src="Video_Portfolio.mp4" type="video/mp4">
-</video>
+* <div align="center">
+  <video width="100%" height="auto" controls>
+    <source src="Video_Portfolio.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
