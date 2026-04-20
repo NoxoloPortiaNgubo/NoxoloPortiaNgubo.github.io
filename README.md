@@ -46,5 +46,7 @@ As an Information and Communications Technology student majoring in Applications
 ---
 
 ## Mock Interview
-* <video src="./"C:\Users\Administrator\Downloads\Video_Portfolio.mp4"" controls width="600"></video>
+* <video width="100%" controls>
+  <source src="Video_Portfolio.mp4" type="video/mp4">
+</video>
 
